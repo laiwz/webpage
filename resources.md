@@ -7,3 +7,6 @@ title: Resources
 - [China Family Panel Studies (CFPS)](http://www.isss.pku.edu.cn/cfps/)
 - [China Gearnal Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
 - [China Household Finance Survey (CHFS)](https://chfs.swufe.edu.cn/)
+
+## Miscellaneous
+- [Avraham Ebenstein's webpage](https://scholars.huji.ac.il/avrahamebenstein/links?page=1)
