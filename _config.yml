@@ -14,7 +14,7 @@ author: Weizheng Lai
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About Me: "aboutme"
+  CV: "/uploads/cv/CV.pdf"
   Research: "research"
   Resources: "resources"
 
