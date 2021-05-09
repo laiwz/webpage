@@ -11,3 +11,4 @@ title: Resources
 
 ### Miscellaneous
 - [Avraham Ebenstein's webpage](https://scholars.huji.ac.il/avrahamebenstein/links?page=1)
+- [Stata color palettes](http://repec.sowi.unibe.ch/stata/palettes/getting-started.html)
