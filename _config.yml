@@ -118,12 +118,10 @@ footer-link-col: "#404040"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-  - "/stylesheets/style.css"
+site-css: "/stylesheets/style.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-  - "/javascripts/scale.fix.js"
+site-js: "/javascripts/scale.fix.js"
 
 # --- Web Analytics Section --- #
 
